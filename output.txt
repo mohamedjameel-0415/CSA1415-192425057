@@ -1,2 +1,0 @@
-SSE School of Engineering teaches Compiler Design course.
-SSE School of Engineering is in Chennai.
